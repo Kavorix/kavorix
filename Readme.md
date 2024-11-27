@@ -1,5 +1,5 @@
 ## 👻 A little about me...  
-I am a **Full-Stack and Blockchain Expert**.  
+**Full-Stack and Blockchain Developer**.  
 I specialize in **DEXs, dApps, NFT marketplaces, Wallets, Bridges, Telegram mini apps, and Launchpads**, with a focus on **security** and **multi-chain integration**.  
 Making sure the project is **high quality** and meets the **deadline** is my top priority.  
 
