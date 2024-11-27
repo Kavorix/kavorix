@@ -1,6 +1,7 @@
 ## 👻 A little about me...  
 I am a **Full-Stack and Blockchain Expert**.
 I specialize in **DEXs, dApps, NFT marketplaces, Wallets, Bridges, Telegram mini app and Launchpads**, with a focus on **security** and **multi-chain integration**.
+Making sure the project is **High quality** and **Deadline** is my top priority.
 
 ```javascript
 const kavorix = {
@@ -11,8 +12,8 @@ const kavorix = {
         baseLevel: ["Html", "Css", "Javascript", "Bash", "C++"]
     },
     programming: {
-        backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
         frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
+        backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
         blockchain: ["Dex", "Dapps", "NFT Marketplace", "Wallet", "Bridges", "Telegram mini app", "Launchpads"],
         ecosystem: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon"],
