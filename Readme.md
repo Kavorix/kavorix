@@ -42,6 +42,8 @@ const kavorix = {
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Python</td>
@@ -49,6 +51,8 @@ const kavorix = {
       <td align="center" width=110>Typescript</td>
       <td align="center" width=110>CSS</td>
       <td align="center" width=110>HTML</td>
+      <td align="center" width=110>Rust</td>
+      <td align="center" width=110>Solidity</td>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
@@ -56,12 +60,23 @@ const kavorix = {
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> </td>
+    </tr> 
     <tr> 
       <td align="center" width=110>PostgreSQL</td>
       <td align="center" width=110>MySQL</td>
       <td align="center" width=110>SQLite</td>
       <td align="center" width=110>Ba$h</td>
       <td align="center" width=110>Markdown</td>
+      <td align="center" width=110>C++</td>
+      <td align="center" width=110>Java</td>
+    </tr>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Go</td>
     </tr>
   </table>
 
