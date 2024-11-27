@@ -1,9 +1,9 @@
 ## 👻 A little about me...  
 I am a **Full-Stack and Blockchain Expert**.
-
+I specialize in **DEXs, dApps, NFT marketplaces, Wallets, Bridges, Telegram mini app and Launchpads**, with a focus on **security** and **multi-chain integration**.
 
 ```javascript
-const DIMFLIX = {
+const kavorix = {
     OS: ["Arch Linux"],
     languages: {
         highLevel: ["Typescript", "Rust", "Solidity", "Python"],
