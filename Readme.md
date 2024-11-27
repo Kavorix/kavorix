@@ -1,6 +1,8 @@
 ## 👻 A little about me...  
 I am a **Full-Stack and Blockchain Expert**.
+
 I specialize in **DEXs, dApps, NFT marketplaces, Wallets, Bridges, Telegram mini app and Launchpads**, with a focus on **security** and **multi-chain integration**.
+
 Making sure the project is **High quality** and **Deadline** is my top priority.
 
 ```javascript
@@ -26,4 +28,4 @@ const kavorix = {
     },
     UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
 };
-```
+``` 
