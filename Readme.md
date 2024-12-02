@@ -6,11 +6,10 @@ Making sure the project is **high quality** and meets the **deadline** is my top
 
 ```javascript
 const kavorix = {
-    OS: ["Arch Linux"],
+    OS: ["Arch Linux", "macOS", "Windows"],
     languages: {
-        highLevel: ["Typescript", "Rust", "Solidity", "Python"],
-        averageLevel: ["Sql", "Java", "Go"],
-        baseLevel: ["Html", "Css", "Javascript", "Bash", "C++"]
+        highLevel: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++"],
+        averageLevel: ["Sql", "Java"],
     },
     programming: {
         frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
