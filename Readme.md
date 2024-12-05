@@ -14,7 +14,7 @@ const kavorix = {
         frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
         backend: ["NodeJS","Django", "FastApi", "Flask"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
-        blockchain: ["Dex", "Dapps", "NFT Marketplace", "Wallet", "Bridges", "Telegram mini app", "Launchpads"],
+        blockchain: ["Dex", "DApps", "NFT Marketplace", "Wallet", "Bridges", "Telegram mini app", "Launchpads"],
         ecosystem: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon"],
         bots: ["Trading Bot", "Discord Bot", "Telegram Bot"],
         devOps: ["Docker", "Nginx", "Ngrok"],
