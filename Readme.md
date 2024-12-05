@@ -22,7 +22,6 @@ const kavorix = {
             Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
             Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
         }
-    },
-    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
+    }
 };
 ```
