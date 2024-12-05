@@ -12,7 +12,7 @@ const kavorix = {
     },
     programming: {
         frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
-        backend: ["NodeJS","Django", "FastApi", "Flask"],
+        backend: ["NodeJS", "Django", "FastApi", "Flask"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
         blockchain: ["Dex", "DApps", "NFT Marketplace", "Wallet", "Bridges", "Telegram mini app", "Launchpads"],
         ecosystem: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron"],
