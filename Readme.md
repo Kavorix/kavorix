@@ -5,7 +5,6 @@ My top priority is delivering a **high-quality** project on **time**.
 
 ```javascript
 const kavorix = {
-    OS: ["Arch Linux", "macOS", "Windows"],
     languages: {
         highLevel: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++"],
         averageLevel: ["Sql", "Java"],
