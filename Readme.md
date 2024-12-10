@@ -5,17 +5,25 @@ My top priority is delivering a **high-quality** project on **time**.
 
 ```javascript
 const kavorix = {
-    language: {
-        highLevel: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++"],
-        averageLevel: ["Sql", "Java"],
+    languages: {
+        advanced: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++"],
+        intermediate: ["SQL", "Java"]
     },
-    programming: {
+
+    development: {
         frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
-        backend: ["NodeJS", "Django", "FastApi", "Flask"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
-        blockchain: ["Dex", "DApps", "NFT Marketplace", "Wallet", "Bridges", "Telegram mini app", "Launchpads"],
-        ecosystem: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron"],
-        bots: ["Trading Bot", "Discord Bot", "Telegram Bot"],
+        backend: ["NodeJS", "Django", "FastAPI", "Flask"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"]
+    },
+
+    blockchain: {
+        skills: ["DEX", "DApps", "NFT Marketplace", "Wallet", "Bridges", "Telegram Mini App", "Launchpads"],
+        platforms: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron"]
+    },
+
+    automation: {
+        skills: ["Trading Bot", "Discord Bot", "Telegram Bot"]
     }
 };
+
 ```
