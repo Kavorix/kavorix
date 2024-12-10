@@ -10,7 +10,7 @@ const kavorix = {
         intermediate: ["SQL", "Java"]
     },
     development: {
-        frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
+        frontend: ["ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
         backend: ["NodeJS", "Django", "FastAPI", "Flask"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"]
     },
