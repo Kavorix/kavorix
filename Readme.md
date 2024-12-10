@@ -5,11 +5,11 @@ My top priority is delivering a **high-quality** project on **time**.
 
 ```javascript
 const kavorix = {
-    "programming language": {
+    language: {
         highLevel: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++"],
         averageLevel: ["Sql", "Java"],
     },
-    "core skill": {
+    programming: {
         frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
         backend: ["NodeJS", "Django", "FastApi", "Flask"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
