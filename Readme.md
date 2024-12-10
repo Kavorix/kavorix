@@ -5,22 +5,17 @@ My top priority is delivering a **high-quality** project on **time**.
 
 ```javascript
 const kavorix = {
-    languages: {
+    "programming language": {
         highLevel: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++"],
         averageLevel: ["Sql", "Java"],
     },
-    programming: {
+    "core skill": {
         frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
         backend: ["NodeJS", "Django", "FastApi", "Flask"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
         blockchain: ["Dex", "DApps", "NFT Marketplace", "Wallet", "Bridges", "Telegram mini app", "Launchpads"],
         ecosystem: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron"],
         bots: ["Trading Bot", "Discord Bot", "Telegram Bot"],
-        devOps: ["Docker", "Nginx", "Ngrok"],
-        GUI: {
-            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
-            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
-        }
     }
 };
 ```
