@@ -9,18 +9,15 @@ const kavorix = {
         advanced: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++"],
         intermediate: ["SQL", "Java"]
     },
-
     development: {
         frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
         backend: ["NodeJS", "Django", "FastAPI", "Flask"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"]
     },
-
     blockchain: {
         skills: ["DEX", "DApps", "NFT Marketplace", "Wallet", "Bridges", "Telegram Mini App", "Launchpads"],
         platforms: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron"]
     },
-
     automation: {
         skills: ["Trading Bot", "Discord Bot", "Telegram Bot"]
     }
