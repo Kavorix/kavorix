@@ -15,7 +15,7 @@ const kavorix = {
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"]
     },
     blockchain: {
-        experience: ["DEX", "DApps", "NFT Marketplace", "Wallet", "Bridges", "Telegram Mini App", "Launchpads", "Meme coin", "Trading Bot"],
+        experience: ["DEX", "DApps", "NFT Marketplace", "Wallet", "Bridges", "Telegram Mini App", "Launchpads", "Meme coin"],
         ecosystem: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron"]
     },
     automation: {
