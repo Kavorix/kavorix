@@ -6,17 +6,17 @@ My top priority is delivering a **high-quality** project on **time**.
 ```javascript
 const kavorix = {
     languages: {
-        advanced: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++"],
+        advanced: ["Javascript", "Typescript", "Rust", "Solidity", "Go", "Python", "C++", "Ruby"],
         intermediate: ["SQL", "Java"]
     },
     fullstack: {
-        frontend: ["ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
-        backend: ["NodeJS", "Django", "FastAPI", "Flask"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"]
+        frontend: ["React.js", "Next.js", "Vue.js", "Angular.js", "Svelte", "React Native", "Flutter", "Three.js", "Remix", "Gatsby"],
+        backend: ["Node.js", "Nest.js", "Django", "FastAPI", "Flask", "Laravel", "ASP.Net", "Ruby on Rails", "C#", "Java"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL", "Redis"]
     },
     blockchain: {
-        experience: ["DEX", "DApps", "NFT Marketplace", "Wallet", "Bridges", "Telegram Mini App", "Launchpads"],
-        ecosystem: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron"]
+        experience: ["Smart Contract", "DEX", "DApps", "Defi", "Dao", "NFT Marketplace", "Wallet", "Bridges", "Telegram Mini App", "Launchpads", "Meme coin"],
+        ecosystem: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron", "Stellar"]
     },
     automation: {
         experience: ["Trading Bot", "Discord Bot", "Telegram Bot"]
