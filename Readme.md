@@ -3,7 +3,7 @@ I am **Full-Stack and Blockchain Developer** specializing in **Frontend, Backend
 My top priority is delivering a **high-quality** project on **time**.  
 
 
-```typescript
+```javascript
 const kavorix = {
     languages: {
         highLevel: ["Javascript", "Typescript", "Rust", "Solidity", "Go", "Python", "C++", "Ruby", "PHP", "Java", "SQL"],
