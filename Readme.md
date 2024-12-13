@@ -1,5 +1,5 @@
 ## 👻 A little about me...  
-I am **Full-Stack and Blockchain Developer** specializing in **DEXs, DApps, NFT marketplaces, Wallets, Bridges, Telegram mini apps, Launchpads, Meme coin and Trading Bot** with a focus on **security**.  
+I am **Full-Stack and Blockchain Developer** specializing in **Frontend, Backend, Smart Contracts, DEXs, DApps, NFT marketplaces, Wallets, Bridges, Telegram mini apps, Launchpads, Meme coin and Trading Bot** with a focus on **security**.  
 My top priority is delivering a **high-quality** project on **time**.  
 
 
