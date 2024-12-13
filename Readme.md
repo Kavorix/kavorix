@@ -6,8 +6,7 @@ My top priority is delivering a **high-quality** project on **time**.
 ```javascript
 const kavorix = {
     languages: {
-        advanced: ["Javascript", "Typescript", "Rust", "Solidity", "Go", "Python", "C++", "Ruby", "PHP"],
-        intermediate: ["SQL", "Java"]
+        highLevel: ["Javascript", "Typescript", "Rust", "Solidity", "Go", "Python", "C++", "Ruby", "PHP", "Java", "SQL"],
     },
     fullstack: {
         frontend: ["React.js", "Next.js", "Vue.js", "Angular.js", "Svelte", "React Native", "Flutter", "Three.js", "Remix", "Gatsby"],
