@@ -10,13 +10,13 @@ const kavorix = {
         highLevel: ["Javascript", "Typescript", "Rust", "Solidity", "Go", "Python", "C++", "Ruby", "PHP", "Java", "SQL"],
     },
     fullstack: {
-        frontend: ["React.js", "Next.js", "Vue.js", "Angular.js", "Svelte", "React Native", "Flutter", "Three.js", "Remix", "Gatsby"],
+        frontend: ["React.js", "Next.js", "Vue.js", "Angular.js", "Svelte", "React Native", "Flutter", "Three.js"],
         backend: ["Node.js", "Nest.js", "Django", "FastAPI", "Flask", "Laravel", "ASP.Net", "Ruby on Rails", "C#", "Java"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL", "Redis"]
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"]
     },
     blockchain: {
         experience: ["SmartContract", "DEX", "DApps", "Defi", "Dao", "NFT Marketplace", "Gaming", "Wallet", "Bridges", "Telegram Mini App", "Launchpads", "Meme coin"],
-        ecosystem: ["Ethereum", "Solana", "Aptos", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron", "Stellar"]
+        ecosystem: ["Ethereum", "Solana", "Aptos", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron", "Stellar", "Sui"]
     },
     automation: {
         experience: ["Trading Bot", "Discord Bot", "Telegram Bot"]
@@ -43,7 +43,7 @@ const kavorix = {
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
+      <br>Just
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
@@ -66,8 +66,8 @@ const kavorix = {
       <br>Ruby
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
+      <br>java
     </td>
   </tr>
 <!-- framework -->
@@ -101,35 +101,79 @@ const kavorix = {
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
-      <br>Rails
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
+      <br>Nodejs
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix " width="45" height="45"/>
-      <br>Phoenix
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" />
+      <br>Flask
     </td>
   </tr>
 <!-- common -->
+<!-- network -->
+<tr>
+  <td align="center" width="90">
+      <img src="./icons/ethereum.png" height="45" >
+      <br>Ethereum
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/solana.png" height="45" >
+      <br>Solana
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/stellar.png" height="45" >
+      <br>Stellar
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Aptos1.png" height="45" >
+      <br>Aptos
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Polkadot1.png" height="45" >
+      <br>Polkadot
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Cosmos.png" height="45" >
+      <br>Cosmos
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Polygon1.png" height="45" >
+      <br>Polygon
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Ton.png" height="45" >
+      <br>Ton
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/trx.png" height="45" >
+      <br>Tron
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Sui.png" height="45" >
+      <br>Sui
+    </td>
+
+  </tr>
   <tr>
   <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="MUI v5" />
+      <br>Fastapi
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
-      <br>Styled
+      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="StyledCom" />
+      <br>Dotnet
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
@@ -148,12 +192,13 @@ const kavorix = {
       <br>SQLite
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-      <br>NFT
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="nestjs" />
+      <br>Nestjs
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
+      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
+      <br>Svelte
     </td>
   </tr>
+  
 </table>
