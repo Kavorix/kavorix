@@ -129,23 +129,23 @@ const kavorix = {
       <br>Stellar
     </td>
     <td align="center" width="90">
-      <img src="./icons/Aptos1.png" height="45" >
+      <img src="./icons/aptos1.png" height="45" >
       <br>Aptos
     </td>
     <td align="center" width="90">
-      <img src="./icons/Polkadot1.png" height="45" >
+      <img src="./icons/polkadot1.png" height="45" >
       <br>Polkadot
     </td>
     <td align="center" width="90">
-      <img src="./icons/Cosmos.png" height="45" >
+      <img src="./icons/cosmos.png" height="45" >
       <br>Cosmos
     </td>
     <td align="center" width="90">
-      <img src="./icons/Polygon1.png" height="45" >
+      <img src="./icons/polygon1.png" height="45" >
       <br>Polygon
     </td>
     <td align="center" width="90">
-      <img src="./icons/Ton.png" height="45" >
+      <img src="./icons/ton.png" height="45" >
       <br>Ton
     </td>
     <td align="center" width="90">
@@ -153,7 +153,7 @@ const kavorix = {
       <br>Tron
     </td>
     <td align="center" width="90">
-      <img src="./icons/Sui.png" height="45" >
+      <img src="./icons/sui.png" height="45" >
       <br>Sui
     </td>
 
