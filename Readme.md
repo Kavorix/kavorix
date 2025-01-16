@@ -3,7 +3,7 @@
 I am a passionate **Full Stack and Blockchain Developer** with over 8 years of experience in web development and 3+ years focused on blockchain technology. 
 
 
-I specialize in developing **Frontend, Backend, SmartContract, DEXs,  DApps, Defi, Dao, NFT marketplaces, wallets, bridges, Gaming, Telegram Mini App, Bot, Meme coin, Trading bot and launchpads**. 
+I specialize in developing **Frontend, Backend, SmartContract, DEXs,  DApps, Defi, Dao, NFT marketplaces, Wallets, bridges, Gaming, Telegram Mini App, Meme coin, Trading bot and launchpads**. 
 
 
 My core skills include **TypeScript, Rust, Solidity, C++, Python, Php, Java, SQL and Go**, and I have extensive experience working across multiple blockchain ecosystems, including **Ethereum, Solana, Polkadot, Stellar, Cosmos, Polygon, Aptos, Sui, Ton, Tron and more**.
@@ -19,11 +19,8 @@ const kavorix = {
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"]
     },
     blockchain: {
-        experience: ["SmartContract", "DEX", "DApps", "Defi", "Dao", "NFT Marketplace", "Gaming", "Wallet", "Bridges", "Telegram Mini App", "Launchpads", "Meme coin"],
+        experience: ["SmartContract", "DEX", "DApps", "Defi", "Dao", "NFT Marketplace", "Gaming", "Wallet", "Bridges", "Telegram Mini App", "Trading Bot", "Launchpads", "Meme coin"],
         ecosystem: ["Ethereum", "Solana", "Aptos", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron", "Stellar", "Sui"]
-    },
-    automation: {
-        experience: ["Trading Bot", "Discord Bot", "Telegram Bot"]
     }
 };
 
