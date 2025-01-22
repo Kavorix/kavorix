@@ -25,7 +25,9 @@ const kavorix = {
 };
 
 ```
-<hr></hr>
+##  🥇 Main Skill
+<br />
+
 
 <table align="center">
 <!-- skill -->
