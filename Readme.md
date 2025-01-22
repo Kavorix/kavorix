@@ -6,21 +6,21 @@ I am a passionate **Full Stack and Blockchain Developer** with over 8 years of e
 I specialize in developing **Frontend, Backend, SmartContract, DEXs,  DApps, Defi, Dao, NFT marketplaces, Wallets, bridges, Gaming, Telegram Mini App, Meme coin, Trading bot and launchpads**. 
 
 
-My core skills include **TypeScript, Rust, Solidity, C++, Python, Php, Java, SQL and Go**, and I have extensive experience working across multiple blockchain ecosystems, including **Ethereum, Solana, Polkadot, Stellar, Cosmos, Polygon, Aptos, Sui, Ton, Tron and more**.
+My core skills include **TypeScript, Rust, Solidity, Go, Python, Java, SQL and C++**, and I have extensive experience working across multiple blockchain ecosystems, including **Ethereum, Solana, Polkadot, Stellar, Cosmos, Binance, Polygon, Aptos, Sui, Ton, Tron and more**.
 
 ```javascript
 const kavorix = {
-    languages: {
-        highLevel: ["Javascript", "Typescript", "Rust", "Solidity", "Go", "Python", "C++", "Ruby", "PHP", "Java", "SQL"],
+    programLanguage: {
+        highLevel: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++", "Java", "SQL"],
     },
     fullstack: {
-        frontend: ["React.js", "Next.js", "Vue.js", "Angular.js", "Svelte", "React Native", "Flutter", "Three.js"],
-        backend: ["Node.js", "Nest.js", "Django", "FastAPI", "Flask", "Laravel", "ASP.Net", "Ruby on Rails", "C#", "Java"],
+        frontend: ["React.js", "Next.js", "Vue.js", "React Native", "Flutter", "Three.js"],
+        backend: ["Node.js", "Nest.js", "Django", "FastAPI", "Flask"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"]
     },
     blockchain: {
         experience: ["SmartContract", "DEX", "DApps", "Defi", "Dao", "NFT Marketplace", "Gaming", "Wallet", "Bridges", "Telegram Mini App", "Trading Bot", "Launchpads", "Meme coin"],
-        ecosystem: ["Ethereum", "Solana", "Aptos", "Polkadot", "Cosmos", "Polygon", "Ton", "Tron", "Stellar", "Sui"]
+        ecosystem: ["Ethereum", "Solana", "Aptos", "Polkadot", "Cosmos", "Binance", "Polygon", "Ton", "Tron", "Stellar", "Sui"]
     }
 };
 
@@ -38,13 +38,13 @@ const kavorix = {
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
       <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Just
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
@@ -160,7 +160,11 @@ const kavorix = {
 
   </tr>
   <tr>
-  <td align="center" width="90">
+    <td align="center" width="90">
+      <img src="./icons/binance.png" width="45" height="45" alt="binance" />
+      <br>Binance
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
     </td>
@@ -171,10 +175,6 @@ const kavorix = {
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="StyledCom" />
-      <br>Dotnet
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
