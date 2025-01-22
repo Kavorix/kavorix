@@ -3,7 +3,7 @@
 I am a passionate **Full Stack and Blockchain Developer** with over 8 years of experience in web development and 3+ years focused on blockchain technology. 
 
 
-I specialize in developing **Frontend, Backend, SmartContract, DEXs,  DApps, Defi, Dao, NFT marketplaces, Wallets, bridges, Gaming, Telegram Mini App, Meme coin, Trading bot and launchpads**. 
+I specialize in developing **Frontend, Backend, SmartContract, DEXs,  DApps, Defi, Dao, NFT marketplaces, Wallets, Bridges, Gaming App, Telegram Mini App, Meme coin, Trading bot and Launchpads**. 
 
 
 My core skills include **TypeScript, Rust, Solidity, Go, Python, Java, SQL and C++**, and I have extensive experience working across multiple blockchain ecosystems, including **Ethereum, Solana, Polkadot, Stellar, Cosmos, Binance, Polygon, Aptos, Sui, Ton, Tron and more**.
