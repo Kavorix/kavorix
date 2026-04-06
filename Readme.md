@@ -1,12 +1,12 @@
 ## 👻 A little about me...
 
-I am a passionate **Full Stack and Blockchain Developer** with over 8 years of experience in web development and 3+ years focused on blockchain technology. 
+I’m a **Full-Stack Developer** with over **14 years of experience** building modern, production-grade web applications.
 
+My strongest background is in **React, Next.js, Node.js, TypeScript, and PostgreSQL**, and I’ve spent years developing full-stack systems that are scalable, maintainable, and built for real business needs.
 
-I specialize in developing **Frontend, Backend, SmartContract, DEXs,  DApps, Defi, Dao, NFT marketplaces, Wallets, Bridges, Gaming App, Telegram Mini App, Meme coin, Trading bot and Launchpads**. 
+I also work extensively with **JavaScript, Express.js, NestJS, Python, Django, FastAPI, MySQL, MongoDB, Redis, AWS, Docker, REST APIs, and GraphQL**.
 
-
-My core skills include **TypeScript, Rust, Solidity, Go, Python, Java, SQL and C++**, and I have extensive experience working across multiple blockchain ecosystems, including **Ethereum, Solana, Polkadot, Stellar, Cosmos, Binance, Polygon, Aptos, Sui, Ton, Tron and more**.
+From responsive frontend development to backend architecture, API design, and database modeling, I focus on building reliable products with clean code and strong long-term foundations.
 
 ```javascript
 const kavorix = {
