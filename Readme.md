@@ -123,49 +123,6 @@ const Aubrey = {
   </tr>
 <!-- common -->
 <!-- network -->
-<tr>
-  <td align="center" width="90">
-      <img src="./icons/ethereum.png" height="45" >
-      <br>Ethereum
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/solana.png" height="45" >
-      <br>Solana
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/stellar.png" height="45" >
-      <br>Stellar
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/aptos1.png" height="45" >
-      <br>Aptos
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/polkadot1.png" height="45" >
-      <br>Polkadot
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/cosmos.png" height="45" >
-      <br>Cosmos
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/polygon1.png" height="45" >
-      <br>Polygon
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/ton.png" height="45" >
-      <br>Ton
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/trx.png" height="45" >
-      <br>Tron
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/sui.png" height="45" >
-      <br>Sui
-    </td>
-
-  </tr>
   <tr>
     <td align="center" width="90">
       <img src="./icons/binance.png" width="45" height="45" alt="binance" />
