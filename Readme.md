@@ -9,19 +9,24 @@ I also work extensively with **JavaScript, Express.js, NestJS, Python, Django, F
 From responsive frontend development to backend architecture, API design, and database modeling, I focus on building reliable products with clean code and strong long-term foundations.
 
 ```javascript
-const kavorix = {
-    programLanguage: {
-        highLevel: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++", "Java", "SQL"],
+const Aubrey = {
+    role: "Full-Stack Developer",
+    experience: "14+ years",
+    specialties: {
+        core: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL"],
+        frontend: ["React", "Next.js", "Vue.js", "React Native", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "NestJS", "Django", "FastAPI", "Flask"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite", "Redis"],
+        languages: ["JavaScript", "TypeScript", "Python", "Java", "Go", "C++", "SQL"],
+        tools: ["Docker", "AWS", "GitHub", "REST APIs", "GraphQL"]
     },
-    fullstack: {
-        frontend: ["React.js", "Next.js", "Vue.js", "React Native", "Flutter", "Three.js"],
-        backend: ["Node.js", "Nest.js", "Django", "FastAPI", "Flask"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"]
-    },
-    blockchain: {
-        experience: ["SmartContract", "DEX", "DApps", "Defi", "Dao", "NFT Marketplace", "Gaming", "Wallet", "Bridges", "Telegram Mini App", "Trading Bot", "Launchpads", "Meme coin"],
-        ecosystem: ["Ethereum", "Solana", "Aptos", "Polkadot", "Cosmos", "Binance", "Polygon", "Ton", "Tron", "Stellar", "Sui"]
-    }
+    focus: [
+        "Scalable full-stack applications",
+        "Clean and maintainable architecture",
+        "Production-ready backend systems",
+        "Responsive frontend development",
+        "Reliable database design"
+    ]
 };
 
 ```
